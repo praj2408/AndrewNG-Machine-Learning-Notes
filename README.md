@@ -1,5 +1,9 @@
-# DeepLearning.AI-Notes
+# Coursera Notes
 
 ## Machine Learning Specialization
+
 ## Deep Learning Specialization
-## NLP
+
+## Natural Language Processing
+
+
